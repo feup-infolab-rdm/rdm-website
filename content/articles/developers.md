@@ -6,7 +6,6 @@ categories = ["developers"]
 banner = "img/banners/banner-2.jpg"
 +++
 
-## `DEVELOPERS`
 
 ## Where can I see the code?
 
