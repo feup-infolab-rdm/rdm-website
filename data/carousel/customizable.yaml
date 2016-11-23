@@ -1,8 +1,4 @@
 weight: 4
-title: "Where can I see the code?"
-description: >
-  <ul class="list-style-none">
-    <li>bla bla bla</li>
-    <li>texto que queremos</li>
-  </ul>
+title: "Open-source development"
+description: "<p>Our software is free and available on GitHub.</p>"
 image: "img/carousel/4.png"

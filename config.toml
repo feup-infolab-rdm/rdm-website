@@ -29,8 +29,8 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "yla_leo@hotmail.com"
 
-    about_us = "<p>Research Data Management</p>"
-    copyright = "Copyright (c) 2015 - 2016, FEUP; all rights reserved."
+    about_us = "<p>Projeto TAIL - Gestão de dados de investigação da produção ao depósito e à partilha.</p>"
+	copyright = "Copyright (c) 2016, UPorto, all rights reserved."
     date_format = "2006-01-02"
     logo = "img/logo.png"
     address = """<p><strong>FEUP</strong>
@@ -99,7 +99,7 @@ paginate = 10
     subtitle = "These are the people that focus on making Research Data Management an every-day routine for researchers"
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "fa fa-play-circle"
     title = "Do you want to know more?"
     subtitle = "You can follow us on the our blog and git-hub"
