@@ -27,7 +27,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "yla_leo@hotmail.com"
+    email = "yyy@hotmail.com"
 
     about_us = "<p>TAIL Project - Research Data Management from deposit to dissemination.</p>"
 	copyright = "Copyright (c) 2016, UPorto, all rights reserved."
