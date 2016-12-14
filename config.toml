@@ -29,17 +29,11 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "yla_leo@hotmail.com"
 
-    about_us = "<p>Projeto TAIL - Gestão de dados de investigação da produção ao depósito e à partilha.</p>"
+    about_us = "<p>TAIL Project - Research Data Management from deposit to dissemination.</p>"
 	copyright = "Copyright (c) 2016, UPorto, all rights reserved."
     date_format = "2006-01-02"
     logo = "img/logo.png"
-    address = """<p><strong>FEUP</strong>
-        <br>Rua Dr.Roberto Frias
-        <br>Porto	
-        <br>4200-465
-        <strong>Portugal</strong>
-      </p>
-      """
+    address = """<p><strong>FEUP</strong><br>Rua Dr.Roberto Frias<br>Porto<br>4200-465<strong>Portugal</strong></p>"""
     latitude = "41.1780"
     longitude = "-8.5980"
 
@@ -63,14 +57,19 @@ paginate = 10
     weight = 3
 
 [[params.menu]]
+    name = "DMP"
+    url  = "/dmp/"
+    weight = 4
+
+[[params.menu]]
     name = "FAQ"
     url  = "/faq/"
-    weight = 4
+    weight = 5
 
 [[params.menu]]
     name = "Contact"
     url  = "/contact/"
-    weight = 5
+    weight = 6
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
@@ -99,19 +98,27 @@ paginate = 10
     subtitle = "These are the people that focus on making Research Data Management an every-day routine for researchers"
 
 [params.see_more]
-    enable = false
+    enable = true
     icon = "fa fa-play-circle"
     title = "Do you want to know more?"
     subtitle = "You can follow us on the our blog and git-hub"
     link_url = "http://dendro.fe.up.pt/blog/"
     link_text = "Check other pages"
 
-[params.clients]
+[params.partners]
     enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Sponsors"
+    title = "Project Partners"
+    subtitle = ""
+
+[params.funding]
+    enable = true
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Funding"
     subtitle = ""
 
 [params.recent_posts]
