@@ -27,13 +27,13 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "yla_leo@hotmail.com"
+    email = "yyy@hotmail.com"
 
     about_us = "<p>TAIL Project - Research Data Management from deposit to dissemination.</p>"
 	copyright = "Copyright (c) 2016, UPorto, all rights reserved."
     date_format = "2006-01-02"
     logo = "img/logo.png"
-    address = """<p><strong>FEUP</strong><br>Rua Dr.Roberto Frias<br>Porto<br>4200-465<strong>Portugal</strong></p>"""
+    address = """<p><strong>FEUP</strong><br>Rua Dr.Roberto Frias<br>Porto<br>4200-465<p></p><strong>Portugal</strong></p>"""
     latitude = "41.1780"
     longitude = "-8.5980"
 
