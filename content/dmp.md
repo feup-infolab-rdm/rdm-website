@@ -2,40 +2,25 @@
 title = "DMP"
 +++
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+A data management plan is a formal document that describes how the data will be handled during a project and after its conclusion. The DMP is intended to cover all the steps of the data life cycle, namely how the data is discovered, collected and organized. Moreover it concerns topics on data quality, preservation and dissemination. Here we can find examples of the DMP and tools which help to creat your Data Management Plan for our data. 
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+## 1. Data Management Planning Tool Online - Create, review, and share data management plans that meet institutional and funder requirements.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+[The DMPtool] (https://dmptool.org/) is free and helps researchers to create DMP´s. This tool can be used to develop generic plans, yet it provide guidance from specific funders who require DMP´s.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+## 2. DMPonline tools has been developed by the Digital Curation Centre to help you write data maganement plans.
 
-## 2. WHAT ARE THE POSTAL RATES?
+[DMPonline] (https://dmponline.dcc.ac.uk/) display different templates that represent the requirements of different funders and institutions, offering support to write a DMP.
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+## 3. H2020 Programme Guidelines on FAIR Data Management in Horizon 2020.
 
-## 3. DO YOU SEND OVERSEAS?
+The European Commision, under the H2020 Programme, promote the [Guidelines] (http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf) on FAIR Data Management, in order to helps its beneficiaries to make their data findable, accessible, interoperable and reusable.
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+## 4. Checklist for a Data Management Plan.
+ 
+[The DCC ] (http://www.dcc.ac.uk/sites/default/files/documents/resource/DMP/DMP_Checklist_2013.pdf) synthesises requirements for Data Management Plans and best practice within the wider community. This allows us to provide a Checklist that presents the main questions or themes that researchers may want to cover when writing a DMP.
 
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
+## 5. NSF ENG Data Management Plan Template for the University of Michigan College of Engineering.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+[NSF DMP Template] (https://deepblue.lib.umich.edu/bitstream/handle/2027.42/86586/CoE_DMP_template_v1.pdf?sequence=1) for ENG with Resources e Commentary: Positive and Negative Example.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
-
-## 5. ANOTHER IMPORTANT QUESTION
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
-
----
-
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
