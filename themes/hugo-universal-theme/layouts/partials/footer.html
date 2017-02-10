@@ -1,0 +1,80 @@
+<footer id="footer">
+    <div class="container">
+
+        {{ if isset .Site.Params "about_us" }}
+        <div class="col-md-4 col-sm-6">
+            <h4><center>About us</center></h4>
+
+            <center>{{ .Site.Params.about_us | safeHTML }}</center>
+			
+			<center><a href="http://localhost:1313/about_us.html" class="btn btn-small btn-template-main">See more</a></center> <br> 
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        <!-- /.col-md-4 -->
+        {{ end }}
+		
+
+        <div class="col-md-4 col-sm-6">
+
+            <h4><center>Follow Us</center></h4>
+
+             <center><a href="https://github.com/feup-infolab-rdm/dendro" class="btn btn-small btn-template-main">Git-Hub</a></center> <br>
+			 
+			 <center><a href="http://dendro.fe.up.pt/blog/" class="btn btn-small btn-template-main">RDM@FEUP</a></center> <br>
+			 
+			 <center><a href="https://www.youtube.com/channel/UCDqG1YHYVVOidtLeO6XoQMQ" class="btn btn-small btn-template-main">YouTube Channel</a></center>
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+            <hr class="hidden-md hidden-lg">
+
+        </div>
+        <!-- /.col-md-4 -->
+
+        {{ if isset .Site.Params "address" }}
+        <div class="col-md-4 col-sm-6">
+
+            <h4><center>Contact</center></h4>
+
+            <center>{{ .Site.Params.address | safeHTML }}</center>
+
+            <center><a href="/contact" class="btn btn-small btn-template-main">Go to contact page</a></center>
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        <!-- /.col-md-4 -->
+        {{ end }}
+
+    </div>
+    <!-- /.container -->
+</footer>
+
+<!-- /#footer -->
+
+<!-- *** FOOTER END *** -->
+
+<!-- *** COPYRIGHT ***
+_________________________________________________________ -->
+
+<div id="copyright">
+    <div class="container">
+        <div class="col-md-12">
+            {{ if isset .Site.Params "copyright" }}
+            <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
+            {{ end }}
+            <p class="pull-right">
+              Template by <a href="http://bootstrapious.com/free-templates">Bootstrapious</a>.
+              <!-- Not removing this link is part of the licence conditions of the template. Thanks for understanding :) -->
+
+				<a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">
+				<img src="../img/CC-BY_icon.svg.png"></a>.
+            </p>
+        </div>
+    </div>
+</div>
+<!-- /#copyright -->
+
+<!-- *** COPYRIGHT END *** -->
