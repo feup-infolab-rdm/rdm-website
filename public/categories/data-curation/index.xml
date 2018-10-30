@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RDM@UPorto</title>
+    <link>https://rdm.up.pt/categories/data-curation/index.xml</link>
+    <description>Recent content on RDM@UPorto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016, UPorto, all rights reserved.</copyright>
+    <atom:link href="https://rdm.up.pt/categories/data-curation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RESEARCH MANAGERS</title>
+      <link>https://rdm.up.pt/stakeholders/2015/10/02/research-managers/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://rdm.up.pt/stakeholders/2015/10/02/research-managers/</guid>
+      <description>
+
+&lt;p&gt;Research data managers play a key role throughout research projects in ensuring that data is usable in the future. They provide guidance to researchers in preparing data for sharing by&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Providing assistance with the preparation of data management plans&lt;/li&gt;
+&lt;li&gt;Suggesting the use of metadata standards to enable the reuse of data&lt;/li&gt;
+&lt;li&gt;Providing guidance in the use of online tools&lt;/li&gt;
+&lt;li&gt;Identificating the appropriate repository to publish the research outputs&lt;/li&gt;
+&lt;li&gt;Electing the appropriate licenses, considering the type of data involved&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This section contains answers to the most frequently asked questions posed by research data managers:&lt;/p&gt;
+
+&lt;h2 id=&#34;what-data-should-be-published&#34;&gt;What data should be published?&lt;/h2&gt;
+
+&lt;p&gt;All kind of data are candidate for sharing, but unique data or expensive to generate are especially important; they may become a valuable asset. As a minimum, it should be published the research data that are expected to be valuable to others, that can testify and validate findings, and that help researchers to increase recognition in the community. Moreover, the contracts signed between researchers and funder agencies establihs the requirements of data deposit.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-is-data-curation&#34;&gt;What is data curation?&lt;/h2&gt;
+
+&lt;p&gt;Data curation involves maintaining, preserving and adding value to data research troughout the data life cycle, reducing the threat of devaluation, or even data loss. It also reduces duplication of effort in creating research data, freeing researchers to other activities.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

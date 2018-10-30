@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RDM@UPorto</title>
+    <link>https://rdm.up.pt/categories/data-management/index.xml</link>
+    <description>Recent content on RDM@UPorto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016, UPorto, all rights reserved.</copyright>
+    <atom:link href="https://rdm.up.pt/categories/data-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DATA MANAGEMENT</title>
+      <link>https://rdm.up.pt/Resources%20Tools%20Data%20Management%20Dendro/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://rdm.up.pt/Resources%20Tools%20Data%20Management%20Dendro/</guid>
+      <description>&lt;p&gt;Dendro is a collaborative tool developed under the scope of a doctoral thesis in the Faculty of Engineering of University of Porto with the aim to help researchers to integrate the data management in the research workflow. Its essence relies in the use of specific domain ontologies to describe the data created so that this remains “alive” for a long period of time. This means that data becomes sharable at the end of the research process and re-usable by other researchers.
+Dendro interacts with Ckan, the digital platform where the University of Porto implemented its data repository - at the end of a research process, the authors send the final datasets and some privileged metadata to Ckan, where data will be available for future reuse in accordance to the licenses chosen by their authors.&lt;br /&gt;
+Dendro is currently being tested with research groups of the University of Porto.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

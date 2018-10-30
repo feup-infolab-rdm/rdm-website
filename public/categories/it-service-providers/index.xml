@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RDM@UPorto</title>
+    <link>https://rdm.up.pt/categories/it-service-providers/index.xml</link>
+    <description>Recent content on RDM@UPorto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016, UPorto, all rights reserved.</copyright>
+    <atom:link href="https://rdm.up.pt/categories/it-service-providers/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IT Service Providers</title>
+      <link>https://rdm.up.pt/stakeholders/2015/08/03/it-service-providers/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://rdm.up.pt/stakeholders/2015/08/03/it-service-providers/</guid>
+      <description>
+
+&lt;p&gt;IT experts that are responsible for&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Regular operational support to data repositories, backup, and system maintenance&lt;/li&gt;
+&lt;li&gt;The implementation of data policies, guidelines or infrastructure&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;IT data providers can help the academic and scientific community in several ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Implementing the different levels of access required to data published in a data repository (answering to requests to modify levels of access and use)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Authorizing accounts, tracking and auditing accesses before providing access to systems containing restricted data&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Improving the performance of digital platforms&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Removing, turning off, or disabling unnecessary services&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Assuring the security of devices, electronic media and backups of data&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;which-research-data-management-platforms-are-available&#34;&gt;Which research data management platforms are available?&lt;/h2&gt;
+
+&lt;p&gt;A set of data repositories are currently available to support research data management. With many data repositories to choose, it can be difficult to select the appropriate platform that meet the research data management requirements of an institution, research group or a single researcher.&lt;/p&gt;
+
+&lt;p&gt;Our RDM team is developing the Dendro platform, a staging area to engage researcher in the management and description of their data at the early stages of the research workflow. Once the data are ready to be published, Dendro is able to export the enclosed datasets and metadata records to research data repositories.&lt;/p&gt;
+
+&lt;p&gt;Services like &lt;a href=&#34;https://figshare.com/&#34;&gt;Figshare&lt;/a&gt; and &lt;a href=&#34;https://zenodo.org/&#34;&gt;Zenodo&lt;/a&gt;, delegate platform maintenance for a fee, while and platforms such as &lt;a href=&#34;http://ckan.org/&#34;&gt;CKAN&lt;/a&gt;, &lt;a href=&#34;http://www.dspace.org/&#34;&gt;DSpace&lt;/a&gt; and &lt;a href=&#34;http://www.eprints.org/uk/&#34;&gt;ePrints&lt;/a&gt; can be installed and run completely under the control of the research institution. As to &lt;a href=&#34;https://www.eudat.eu/&#34;&gt;EUDAT&lt;/a&gt;, it offers several research data services.&lt;/p&gt;
+
+&lt;p&gt;The Registry of Research Data Repositories (&lt;a href=&#34;http://www.re3data.org/&#34;&gt;re3data.org&lt;/a&gt;) covers a wide range of discipline data repositories.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-are-the-key-advantages-of-each-research-data-management-platform&#34;&gt;What are the key advantages of each research data management platform?&lt;/h2&gt;
+
+&lt;p&gt;&lt;code&gt;CKAN&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It is an open-source platform, widely supported by the developer community;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;-Features extensive and comprehensive documentation;&lt;/p&gt;
+
+&lt;p&gt;-Allows deep customization of its features;&lt;/p&gt;
+
+&lt;p&gt;-Can be fully under the institution control;&lt;/p&gt;
+
+&lt;p&gt;-Supports unrestricted (non-standards-compliant) metadata;&lt;/p&gt;
+
+&lt;p&gt;-Has faceted search with fuzzy matching; records data;&lt;/p&gt;
+
+&lt;p&gt;-Records datasets change logs and versioning information.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Figshare&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;-Gives credit to authors through citations and references;&lt;/p&gt;
+
+&lt;p&gt;-Can export reference to Mendeley, DataCite, RefWorks, Endnote, NLM and Reference Manager;&lt;/p&gt;
+
+&lt;p&gt;-Records statistics related to citations and shares;&lt;/p&gt;
+
+&lt;p&gt;-Does not require any maintenance.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Zenodo&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;-Allows creating communities to validate submissions;&lt;/p&gt;
+
+&lt;p&gt;-Supports Dublin Core, MARC and MARCXML for metadata exporting;&lt;/p&gt;
+
+&lt;p&gt;-Can export references to BibTeX, DataCite, DC, EndNote, NLM, RefWorks;&lt;/p&gt;
+
+&lt;p&gt;-Complies with OAI-PMH for data dissemination;&lt;/p&gt;
+
+&lt;p&gt;-Does not require any maintenance;&lt;/p&gt;
+
+&lt;p&gt;-Includes metadata records in the searchable fields.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;DSpace&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;-Can comply with domain-level metadata schemas;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It is open-source and has a wide supporting community;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;-Has an extensive community maintained documentation;&lt;/p&gt;
+
+&lt;p&gt;-Can be fully under institutions control;&lt;/p&gt;
+
+&lt;p&gt;-Structured metadata representation;&lt;/p&gt;
+
+&lt;p&gt;-Compliant with OAI-PMH.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;ePrints&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;-Can maintain records of changes in preservation metadata records;&lt;/p&gt;
+
+&lt;p&gt;-Compliant with OAI-PMH;&lt;/p&gt;
+
+&lt;p&gt;-Compliant with SWORD for multiple deposit.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;EUDAT&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;-Modular approach that provides a variety of services to match local needs;&lt;/p&gt;
+
+&lt;p&gt;-Strong support from European agencies;&lt;/p&gt;
+
+&lt;p&gt;-Integration of several open-source platforms (CKAN, Invenio);&lt;/p&gt;
+
+&lt;p&gt;-End-to-end workflow for research data management;&lt;/p&gt;
+
+&lt;p&gt;-Majority of features are available for free to european researchers.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

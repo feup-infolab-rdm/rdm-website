@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RDM@UPorto</title>
+    <link>https://rdm.up.pt/categories/developers/index.xml</link>
+    <description>Recent content on RDM@UPorto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016, UPorto, all rights reserved.</copyright>
+    <atom:link href="https://rdm.up.pt/categories/developers/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DEVELOPERS</title>
+      <link>https://rdm.up.pt/stakeholders/2015/09/17/developers/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://rdm.up.pt/stakeholders/2015/09/17/developers/</guid>
+      <description>
+
+&lt;h2 id=&#34;what-is-dendro&#34;&gt;What is Dendro?&lt;/h2&gt;
+
+&lt;p&gt;Created at the Faculty of Engineering of the University of Porto, Dendro focuses on providing researchers with a collaborative, structured and standards-compliant research data management platform. Dendro aims to support researchers in their daily data management activities, allowing users to describe their data using domain-specific ontologies, promoting research data integration in the Semantic Web.&lt;/p&gt;
+
+&lt;h2 id=&#34;where-can-i-see-the-code&#34;&gt;Where can I see the code?&lt;/h2&gt;
+
+&lt;p&gt;Please visit our GitHub page – &lt;a href=&#34;https://github.com/feup-infolab-rdm&#34;&gt;FEUP InfoLab’s Research Data Management group&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;where-can-i-find-more-information-about-dendro&#34;&gt;Where can I find more information about DENDRO?&lt;/h2&gt;
+
+&lt;p&gt;You can get it with the following ID &lt;a href=&#34;http://hdl.handle.net/10216/83993&#34;&gt;http://hdl.handle.net/10216/83993&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

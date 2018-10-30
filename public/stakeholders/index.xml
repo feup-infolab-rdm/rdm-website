@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stakeholders-rsses on RDM@UPorto</title>
+    <link>https://rdm.up.pt/stakeholders/index.xml</link>
+    <description>Recent content in Stakeholders-rsses on RDM@UPorto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016, UPorto, all rights reserved.</copyright>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    <atom:link href="https://rdm.up.pt/stakeholders/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RESEARCHERS</title>
+      <link>https://rdm.up.pt/stakeholders/2015/10/10/researchers/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://rdm.up.pt/stakeholders/2015/10/10/researchers/</guid>
+      <description>
+
+&lt;p&gt;This section contains answers to the most frequently asked questions presented by researchers.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How to manage and publish research data?&lt;/li&gt;
+&lt;li&gt;Where to find a trusted platform to publish the data of a specific domain?&lt;/li&gt;
+&lt;li&gt;Which are the national and institutional policies and strategies concerning the sharing of data?&lt;/li&gt;
+&lt;li&gt;How to make compliant the confidentiality inherent of certain types of data to the requirements of sharing data?&lt;/li&gt;
+&lt;li&gt;Where can I find advice about which data should I keep and which data will not be necessary for further use?&lt;/li&gt;
+&lt;li&gt;Where can find to design a data management plan?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;if-i-adopt-dendro-and-its-processes-what-extra-effort-do-i-have-to-account-for-in-my-project&#34;&gt;If I adopt Dendro and its processes, what extra effort do I have to account for in my project?&lt;/h2&gt;
+
+&lt;p&gt;If you already have data that are generated and shared in your project, you are already using project manpower in RDM, albeit informally. You can improve your process with the Dendro workflow, creating metadata according to the standards in your domain and preparing the datasets to be ready for publication any time you decide.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-should-i-spend-extra-time-managing-my-data-now-that-my-results-are-out&#34;&gt;Why should I spend extra time managing my data, now that my results are out?&lt;/h2&gt;
+
+&lt;p&gt;More and more, the time for data management will be distributed from the project proposal to the final presentation of results. But for important results where your research has impact, you can invest in preparing and publishing datasets, improving your visibility.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-do-i-need-to-describe-my-data&#34;&gt;Why do I need to describe my data?&lt;/h2&gt;
+
+&lt;p&gt;Data in a repository can be hard to find and, when someone finds them and wants to reuse them, they need to know about the data production context. Considering that research data, unlike publications, may provide no clue as to its nature, resorting to metadata will promote data discovery, interpretation, preservation and further reuse.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-kinds-of-data-are-candidates-for-sharing&#34;&gt;What kinds of data are candidates for sharing?&lt;/h2&gt;
+
+&lt;p&gt;Potentially all kinds of data are candidates for sharing, but unique data are especially important.&lt;/p&gt;
+
+&lt;h2 id=&#34;do-i-have-to-share-all-my-research-data&#34;&gt;Do I have to share all my research data?&lt;/h2&gt;
+
+&lt;p&gt;You should share the research data that is necessary to validate findings described in your publications, data which might be valuable to others, data which cannot be re-generated, …&lt;/p&gt;
+
+&lt;h2 id=&#34;do-i-need-to-share-data-underpinning-my-doctoral-thesis&#34;&gt;Do I need to share data underpinning my doctoral thesis?&lt;/h2&gt;
+
+&lt;p&gt;You are encouraged to do so, providing that the research process is not damaged by premature and/or inappropriate release of research data. For example, if you release your data, you might be unable to use it in future publications. In general, it is advised that supervisors be always consulted before any research data underpinning PhD research is released.&lt;/p&gt;
+
+&lt;h2 id=&#34;can-i-restrict-access-to-my-data&#34;&gt;Can I restrict access to my data?&lt;/h2&gt;
+
+&lt;p&gt;Most funders expect publicly funded research data to be made freely available, with as few restrictions as possible. However, there are some exemptions to this:
+- Personal/sensitive data should not be released into public domain, unless consent of the person is given and data is properly anonymised;
+- Delays/restrictions are acceptable if necessary to protect IP or commercially confidential data.&lt;/p&gt;
+
+&lt;h2 id=&#34;if-data-preservation-is-not-possible-or-cost-effective-it-is-acceptable-not-to-publish-the-data-as-long-as-the-ability-to-validate-published-research-findings-is-not-compromised-and-the-access-to-data-might-be-granted-in-other-ways&#34;&gt;If data preservation is not possible or cost-effective, it is acceptable not to publish the data, as long as the ability to validate published research findings is not compromised and the access to data might be granted in other ways.&lt;/h2&gt;
+
+&lt;h2 id=&#34;can-i-submit-my-data-to-any-repository-i-want&#34;&gt;Can I submit my data to any repository I want?&lt;/h2&gt;
+
+&lt;p&gt;If your research is funded, you may be required to submit your data to a repository suggested by your funder. Otherwise, it is up to you and your research group to choose.&lt;/p&gt;
+
+&lt;h2 id=&#34;are-my-data-safe-in-a-repository&#34;&gt;Are my data safe in a repository?&lt;/h2&gt;
+
+&lt;p&gt;You should be concerned with that, and look for a trusted digital repository for your data. In case that is not available, you need to assess the plans and the expected evolution of the repository you are planning to use. There are some initiatives, such as the Data Seal of Approval, that certify data repositories.&lt;/p&gt;
+
+&lt;h2 id=&#34;i-am-involved-in-a-collaborative-project-with-researchers-who-do-not-want-to-share-data-what-should-i-do&#34;&gt;I am involved in a collaborative project with researchers who do not want to share data. What should I do?&lt;/h2&gt;
+
+&lt;p&gt;Ideally (and in future collaborations), you should inform your potential collaborators that due to your public funding, you are expected to share research data as openly as possible. With your current research project, you should determine with your collaborators which data can be shared. If some research data need to be restricted, then you should provide an appropriate statement in your publication explaining the reason why access to data is not open.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-if-someone-uses-my-data-improperly&#34;&gt;What if someone uses my data improperly?&lt;/h2&gt;
+
+&lt;p&gt;That is unfortunately always possible and cannot be avoided. Every time you publish, you risk being misinterpreted – that is also true in the traditional publication process. Publishing research data underpinning your publication actually decreases the risk of your work being misinterpreted or misused, as you can be more transparent about your research findings. Remember to choose a proper license for your data – the type of license will determine what people can do with your research data. Read more about licenses here: ….&lt;/p&gt;
+
+&lt;h2 id=&#34;how-do-i-get-credit-for-my-data&#34;&gt;How do I get credit for my data?&lt;/h2&gt;
+
+&lt;p&gt;The publication of research data helps to increase the visibility and accessibility of all research results. The reuse of data favours their citation and that of associated papers. The academic and scientific community is now more motivated to recognize non-standard research outputs such as data, code and professional network activities. Sharing data can also foster the partnership with other researchers or institutions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RESEARCH MANAGERS</title>
+      <link>https://rdm.up.pt/stakeholders/2015/10/02/research-managers/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://rdm.up.pt/stakeholders/2015/10/02/research-managers/</guid>
+      <description>
+
+&lt;p&gt;Research data managers play a key role throughout research projects in ensuring that data is usable in the future. They provide guidance to researchers in preparing data for sharing by&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Providing assistance with the preparation of data management plans&lt;/li&gt;
+&lt;li&gt;Suggesting the use of metadata standards to enable the reuse of data&lt;/li&gt;
+&lt;li&gt;Providing guidance in the use of online tools&lt;/li&gt;
+&lt;li&gt;Identificating the appropriate repository to publish the research outputs&lt;/li&gt;
+&lt;li&gt;Electing the appropriate licenses, considering the type of data involved&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This section contains answers to the most frequently asked questions posed by research data managers:&lt;/p&gt;
+
+&lt;h2 id=&#34;what-data-should-be-published&#34;&gt;What data should be published?&lt;/h2&gt;
+
+&lt;p&gt;All kind of data are candidate for sharing, but unique data or expensive to generate are especially important; they may become a valuable asset. As a minimum, it should be published the research data that are expected to be valuable to others, that can testify and validate findings, and that help researchers to increase recognition in the community. Moreover, the contracts signed between researchers and funder agencies establihs the requirements of data deposit.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-is-data-curation&#34;&gt;What is data curation?&lt;/h2&gt;
+
+&lt;p&gt;Data curation involves maintaining, preserving and adding value to data research troughout the data life cycle, reducing the threat of devaluation, or even data loss. It also reduces duplication of effort in creating research data, freeing researchers to other activities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DEVELOPERS</title>
+      <link>https://rdm.up.pt/stakeholders/2015/09/17/developers/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://rdm.up.pt/stakeholders/2015/09/17/developers/</guid>
+      <description>
+
+&lt;h2 id=&#34;what-is-dendro&#34;&gt;What is Dendro?&lt;/h2&gt;
+
+&lt;p&gt;Created at the Faculty of Engineering of the University of Porto, Dendro focuses on providing researchers with a collaborative, structured and standards-compliant research data management platform. Dendro aims to support researchers in their daily data management activities, allowing users to describe their data using domain-specific ontologies, promoting research data integration in the Semantic Web.&lt;/p&gt;
+
+&lt;h2 id=&#34;where-can-i-see-the-code&#34;&gt;Where can I see the code?&lt;/h2&gt;
+
+&lt;p&gt;Please visit our GitHub page – &lt;a href=&#34;https://github.com/feup-infolab-rdm&#34;&gt;FEUP InfoLab’s Research Data Management group&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;where-can-i-find-more-information-about-dendro&#34;&gt;Where can I find more information about DENDRO?&lt;/h2&gt;
+
+&lt;p&gt;You can get it with the following ID &lt;a href=&#34;http://hdl.handle.net/10216/83993&#34;&gt;http://hdl.handle.net/10216/83993&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT Service Providers</title>
+      <link>https://rdm.up.pt/stakeholders/2015/08/03/it-service-providers/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://rdm.up.pt/stakeholders/2015/08/03/it-service-providers/</guid>
+      <description>
+
+&lt;p&gt;IT experts that are responsible for&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Regular operational support to data repositories, backup, and system maintenance&lt;/li&gt;
+&lt;li&gt;The implementation of data policies, guidelines or infrastructure&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;IT data providers can help the academic and scientific community in several ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Implementing the different levels of access required to data published in a data repository (answering to requests to modify levels of access and use)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Authorizing accounts, tracking and auditing accesses before providing access to systems containing restricted data&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Improving the performance of digital platforms&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Removing, turning off, or disabling unnecessary services&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Assuring the security of devices, electronic media and backups of data&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;which-research-data-management-platforms-are-available&#34;&gt;Which research data management platforms are available?&lt;/h2&gt;
+
+&lt;p&gt;A set of data repositories are currently available to support research data management. With many data repositories to choose, it can be difficult to select the appropriate platform that meet the research data management requirements of an institution, research group or a single researcher.&lt;/p&gt;
+
+&lt;p&gt;Our RDM team is developing the Dendro platform, a staging area to engage researcher in the management and description of their data at the early stages of the research workflow. Once the data are ready to be published, Dendro is able to export the enclosed datasets and metadata records to research data repositories.&lt;/p&gt;
+
+&lt;p&gt;Services like &lt;a href=&#34;https://figshare.com/&#34;&gt;Figshare&lt;/a&gt; and &lt;a href=&#34;https://zenodo.org/&#34;&gt;Zenodo&lt;/a&gt;, delegate platform maintenance for a fee, while and platforms such as &lt;a href=&#34;http://ckan.org/&#34;&gt;CKAN&lt;/a&gt;, &lt;a href=&#34;http://www.dspace.org/&#34;&gt;DSpace&lt;/a&gt; and &lt;a href=&#34;http://www.eprints.org/uk/&#34;&gt;ePrints&lt;/a&gt; can be installed and run completely under the control of the research institution. As to &lt;a href=&#34;https://www.eudat.eu/&#34;&gt;EUDAT&lt;/a&gt;, it offers several research data services.&lt;/p&gt;
+
+&lt;p&gt;The Registry of Research Data Repositories (&lt;a href=&#34;http://www.re3data.org/&#34;&gt;re3data.org&lt;/a&gt;) covers a wide range of discipline data repositories.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-are-the-key-advantages-of-each-research-data-management-platform&#34;&gt;What are the key advantages of each research data management platform?&lt;/h2&gt;
+
+&lt;p&gt;&lt;code&gt;CKAN&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It is an open-source platform, widely supported by the developer community;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;-Features extensive and comprehensive documentation;&lt;/p&gt;
+
+&lt;p&gt;-Allows deep customization of its features;&lt;/p&gt;
+
+&lt;p&gt;-Can be fully under the institution control;&lt;/p&gt;
+
+&lt;p&gt;-Supports unrestricted (non-standards-compliant) metadata;&lt;/p&gt;
+
+&lt;p&gt;-Has faceted search with fuzzy matching; records data;&lt;/p&gt;
+
+&lt;p&gt;-Records datasets change logs and versioning information.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Figshare&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;-Gives credit to authors through citations and references;&lt;/p&gt;
+
+&lt;p&gt;-Can export reference to Mendeley, DataCite, RefWorks, Endnote, NLM and Reference Manager;&lt;/p&gt;
+
+&lt;p&gt;-Records statistics related to citations and shares;&lt;/p&gt;
+
+&lt;p&gt;-Does not require any maintenance.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Zenodo&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;-Allows creating communities to validate submissions;&lt;/p&gt;
+
+&lt;p&gt;-Supports Dublin Core, MARC and MARCXML for metadata exporting;&lt;/p&gt;
+
+&lt;p&gt;-Can export references to BibTeX, DataCite, DC, EndNote, NLM, RefWorks;&lt;/p&gt;
+
+&lt;p&gt;-Complies with OAI-PMH for data dissemination;&lt;/p&gt;
+
+&lt;p&gt;-Does not require any maintenance;&lt;/p&gt;
+
+&lt;p&gt;-Includes metadata records in the searchable fields.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;DSpace&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;-Can comply with domain-level metadata schemas;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It is open-source and has a wide supporting community;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;-Has an extensive community maintained documentation;&lt;/p&gt;
+
+&lt;p&gt;-Can be fully under institutions control;&lt;/p&gt;
+
+&lt;p&gt;-Structured metadata representation;&lt;/p&gt;
+
+&lt;p&gt;-Compliant with OAI-PMH.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;ePrints&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;-Can maintain records of changes in preservation metadata records;&lt;/p&gt;
+
+&lt;p&gt;-Compliant with OAI-PMH;&lt;/p&gt;
+
+&lt;p&gt;-Compliant with SWORD for multiple deposit.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;EUDAT&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;-Modular approach that provides a variety of services to match local needs;&lt;/p&gt;
+
+&lt;p&gt;-Strong support from European agencies;&lt;/p&gt;
+
+&lt;p&gt;-Integration of several open-source platforms (CKAN, Invenio);&lt;/p&gt;
+
+&lt;p&gt;-End-to-end workflow for research data management;&lt;/p&gt;
+
+&lt;p&gt;-Majority of features are available for free to european researchers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DATA CURATORS</title>
+      <link>https://rdm.up.pt/stakeholders/2015/06/24/data-curators/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://rdm.up.pt/stakeholders/2015/06/24/data-curators/</guid>
+      <description>
+
+&lt;p&gt;Data curators have a key role in ensuring that data remain understandable and usable in the future. In the absence of a previous data management plan, they are expected to add the necessary metadata to datasets that have none, or almost none, contextualization or description.&lt;/p&gt;
+
+&lt;p&gt;The main activities endorsed to data curators are related to the data that are going to be published (or they are already published) in data repositories:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Promotion of best practices throughout the research process&lt;/li&gt;
+&lt;li&gt;Helping researchers to decide how to publish data at the end of projects&lt;/li&gt;
+&lt;li&gt;Definition of the required quality control steps to integrate data in a repository&lt;/li&gt;
+&lt;li&gt;Creation and managing of metadata necessary to describe data&lt;/li&gt;
+&lt;li&gt;Making data visible and available to defined target audiences&lt;/li&gt;
+&lt;li&gt;Assuring that the access to data complies to the licenses chosen by the authors&lt;/li&gt;
+&lt;li&gt;Giving advice on data that have a long-term value&lt;/li&gt;
+&lt;li&gt;Definition and implementation of rules and procedures to guarentee the long term preservation of data&lt;/li&gt;
+&lt;li&gt;Dissemination of successful stories to encourage the practice of sharing data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;which-metadata-standards-can-i-recommend-to-researchers&#34;&gt;Which metadata standards can I recommend to researchers?&lt;/h2&gt;
+
+&lt;p&gt;There are many metadata standards available to promote data discovery, preservation and reuse. Metadata standards can either be generic or developed within a specific community in mind.&lt;/p&gt;
+
+&lt;p&gt;The following are some of the metadata standards that data curators may recommend for data description:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;CERIF&lt;/code&gt; – Common European Research Information Format – This standard is a EU recommendation to its member states for recording research activity related information. It is developed and mantained by EuroCRIS&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Darwin Core&lt;/code&gt; –  A body of standards, that include a glossary of terms, that targets data sharing  in the biological diversity domain.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;DDI Data Documentation Initiative&lt;/code&gt; – A widely used standard for describing data from the social, behavioural and economic sciences.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;DIF Directory Interchange Format&lt;/code&gt; – An initiative from Earth sciences community for the description of scientific data, with elements that represent the instruments used to capture data, temporal and spatial data, and projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Dublin Core&lt;/code&gt; – One of the best known and widely used domain-agnostic metadata standards.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Ecological Metadata Language&lt;/code&gt; – Standard developed for and by the ecology discipline. The Global Biodiversity Information Facility (GBIF) metadata application profile is primarily based on the EML.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;ISO 19115&lt;/code&gt; – An internationally-adopted schema for describing geographic information and services. Its core elements provide information about the identification, extent, quality, temporal and spatial references. The EU INSPIRE metadata recommendations are based ISO 19115.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;PREMIS Data Dictionary for Preservation Metadata&lt;/code&gt; –  International standard to support the preservation of digital objects and ensure their long-term usability.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grant Aplication Consultants</title>
+      <link>https://rdm.up.pt/stakeholders/2015/06/24/grant-aplication-consultants/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://rdm.up.pt/stakeholders/2015/06/24/grant-aplication-consultants/</guid>
+      <description>
+
+&lt;h2 id=&#34;what-is-a-data-management-plan-dmp&#34;&gt;What is a Data Management Plan (DMP)?&lt;/h2&gt;
+
+&lt;p&gt;Research data are recognized as a high-value resource that has the potential to enhance scientific knowledge. Research funders are increasingly requiring that grant applicants provide a detailed data management plan (DMP) as a part of a research proposal. The DMP is peer-reviewed and it is used for evaluation purposes.A data management plan is a formal document that describes how the data will be handled during a project and after its conclusion. The DMP is intended to cover all the steps of the data life cycle, namely how the data is discovered, collected and organized. Moreover it concerns topics on data quality, preservation and dissemination.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-do-i-write-a-good-data-management-plan&#34;&gt;How do I write a good data management plan?&lt;/h2&gt;
+
+&lt;p&gt;A well-documented DMP must comply to the funder requirements that are very different depending on the research community own standards and methods. Knowing the requirements of the organization to which the proposal will be submitted can save time and effort while writing a DMP.&lt;/p&gt;
+
+&lt;p&gt;The success of the DMP also depends on having significant knowledge about the data that will be collected during the project. For instance, the volume of data that will be generated has both an impact in financial and time costs, such as preparing the infrastructure to allocate the data and creating the metadata that will ensure data quality and preservation. Therefore, the more accurate is the information about the types, sources, volume and the format of the data more likely the DMP strategy will be successful.&lt;/p&gt;
+
+&lt;p&gt;Another aspect is to clearly understand how the data will be documented, since data on its own may not provide the needed information to be exploited, e.g. rows and columns of numbers. Data documentation in order to enable discovery, reuse and proper citation, relies in metadata describing the research context. There are community-based metadata standards that can be used to performed this kind of activity.&lt;/p&gt;
+
+&lt;p&gt;Relying solely on personal computers to store the data may expose data to many risk scenarios, compromising its reuse. Thus, DMP´s must include a data storage and preservation strategy. An aspect to consider is the value of data since not all the data calls for long-term preservation, for instance observational data is expensive to collect and, in most cases, cannot be replicated, so there is a need for it to be stored permanently.&lt;/p&gt;
+
+&lt;p&gt;It is recommended to store copies in different locations and plan for regular backups. Data repositories are suitable remote locations to ensure data preservation. There is a growing body of general data repositories, in the likes of Figshare and Zenodo, or discipline-specific orientated ones that can be accessed via online catalogs (re3data). Institutions may already have their own data repositories for researchers to look for. Moreover data repositories have specific policies that can influence the DMP, namely costs associated to data curation activities. Researchers may also consider a dissemination strategy regarding data availability (when, how and what?).&lt;/p&gt;
+
+&lt;p&gt;Finally, a good DMP practice is to consider data quality issues, project´s data policies, roles and responsibilities and allocate budget to the data management activities.&lt;/p&gt;
+
+&lt;p&gt;The following question need to be consider when preparing a DMP:&lt;/p&gt;
+
+&lt;p&gt;– What types of data and formats will be captured during the project?&lt;/p&gt;
+
+&lt;p&gt;– What is the expected volume of data that will be generated?&lt;/p&gt;
+
+&lt;p&gt;– In which way the data will be stored (over the duration of the project) and preserved to ensure its future reuse (when the project ends)?&lt;/p&gt;
+
+&lt;p&gt;-Which metadata standards will be used to describe the data?&lt;/p&gt;
+
+&lt;h2 id=&#34;there-are-any-available-tools-and-guidelines-to-help-me-in-the-development-of-a-dmp&#34;&gt;There are any available tools and guidelines to help me in the development of a DMP?&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://dmptool.org/&#34;&gt;DMPtool&lt;/a&gt; is free and helps researchers to create DMP. This tool can be used to develop generic plans, yet it provides guidance from specific funders who require DMP.&lt;/p&gt;
+
+&lt;p&gt;The Digital Curation Centre &lt;a href=&#34;http://www.dcc.ac.uk/&#34;&gt;DCC&lt;/a&gt; has developed the &lt;a href=&#34;https://dmponline.dcc.ac.uk/&#34;&gt;DMPonline&lt;/a&gt; that displays different templates that represent the requirements of different funders and institutions, offering support to write a DMP.&lt;/p&gt;
+
+&lt;p&gt;The European Commision, under the H2020 Programme, promotes the Guidelines on &lt;a href=&#34;http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf&#34;&gt;FAIR Data Management&lt;/a&gt;, in order to helps its beneficiaries to make their data findable, accessible, interoperable and reusable. Furthermore, The ‘AGA — Annotated Model Grant Agreement’ is a &lt;a href=&#34;http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/amga/h2020-amga_en.pdf&#34;&gt;user guide&lt;/a&gt; that aims to explain to applicants and beneficiaries the General Model Grant Agreement (‘General MGA’) and the different specific Model Grant Agreements (‘Specific MGAs’) for the Horizon 2020 Framework Programme for 2014-2020.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

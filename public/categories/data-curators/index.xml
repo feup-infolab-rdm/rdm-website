@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RDM@UPorto</title>
+    <link>https://rdm.up.pt/categories/data-curators/index.xml</link>
+    <description>Recent content on RDM@UPorto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016, UPorto, all rights reserved.</copyright>
+    <atom:link href="https://rdm.up.pt/categories/data-curators/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DATA CURATORS</title>
+      <link>https://rdm.up.pt/stakeholders/2015/06/24/data-curators/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://rdm.up.pt/stakeholders/2015/06/24/data-curators/</guid>
+      <description>
+
+&lt;p&gt;Data curators have a key role in ensuring that data remain understandable and usable in the future. In the absence of a previous data management plan, they are expected to add the necessary metadata to datasets that have none, or almost none, contextualization or description.&lt;/p&gt;
+
+&lt;p&gt;The main activities endorsed to data curators are related to the data that are going to be published (or they are already published) in data repositories:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Promotion of best practices throughout the research process&lt;/li&gt;
+&lt;li&gt;Helping researchers to decide how to publish data at the end of projects&lt;/li&gt;
+&lt;li&gt;Definition of the required quality control steps to integrate data in a repository&lt;/li&gt;
+&lt;li&gt;Creation and managing of metadata necessary to describe data&lt;/li&gt;
+&lt;li&gt;Making data visible and available to defined target audiences&lt;/li&gt;
+&lt;li&gt;Assuring that the access to data complies to the licenses chosen by the authors&lt;/li&gt;
+&lt;li&gt;Giving advice on data that have a long-term value&lt;/li&gt;
+&lt;li&gt;Definition and implementation of rules and procedures to guarentee the long term preservation of data&lt;/li&gt;
+&lt;li&gt;Dissemination of successful stories to encourage the practice of sharing data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;which-metadata-standards-can-i-recommend-to-researchers&#34;&gt;Which metadata standards can I recommend to researchers?&lt;/h2&gt;
+
+&lt;p&gt;There are many metadata standards available to promote data discovery, preservation and reuse. Metadata standards can either be generic or developed within a specific community in mind.&lt;/p&gt;
+
+&lt;p&gt;The following are some of the metadata standards that data curators may recommend for data description:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;CERIF&lt;/code&gt; – Common European Research Information Format – This standard is a EU recommendation to its member states for recording research activity related information. It is developed and mantained by EuroCRIS&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Darwin Core&lt;/code&gt; –  A body of standards, that include a glossary of terms, that targets data sharing  in the biological diversity domain.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;DDI Data Documentation Initiative&lt;/code&gt; – A widely used standard for describing data from the social, behavioural and economic sciences.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;DIF Directory Interchange Format&lt;/code&gt; – An initiative from Earth sciences community for the description of scientific data, with elements that represent the instruments used to capture data, temporal and spatial data, and projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Dublin Core&lt;/code&gt; – One of the best known and widely used domain-agnostic metadata standards.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Ecological Metadata Language&lt;/code&gt; – Standard developed for and by the ecology discipline. The Global Biodiversity Information Facility (GBIF) metadata application profile is primarily based on the EML.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;ISO 19115&lt;/code&gt; – An internationally-adopted schema for describing geographic information and services. Its core elements provide information about the identification, extent, quality, temporal and spatial references. The EU INSPIRE metadata recommendations are based ISO 19115.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;PREMIS Data Dictionary for Preservation Metadata&lt;/code&gt; –  International standard to support the preservation of digital objects and ensure their long-term usability.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
